@@ -189,9 +189,12 @@ def imagenRecognition(imgD):
         template = getEncode(imgD)
         personas = searchPersons()
         if len(personas['doc_ids']) > 0:
-            p = Pool()
+            count = int(cpu_count())
+            print(count)
+            p = Pool(count)
             # newReconociomiento = partial(reconocimiento,templete=template,datos=datos)
             result = p.apply(reconocimiento,(personas,template,datos))
+            print(p)
             # result = reconocimiento(personas, template, datos)    
         else:
             datos['url'] = moveStandBy(datos['url'], datos['cliente'])

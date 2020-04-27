@@ -1,2 +1,8 @@
 
 ./cloud/001+0001+2020-02-05+18:24:44:124514+P.jpg Tiempo fue de 15.06815767288208{'descripcion': 'reconocido por knn', 'url': './reconocidos/001/001+0001+2020-02-05+18:24:44:124514+P.jpg', 'cliente': '001', 'distance': 0.37201699084204715, 'distance_knn': 0.4039674205412799, 'doc_id_knn': '23410567', 'doc_id': '23410567', 'distance_min_prom': 0.37201699084204715, 'doc_id_min_prom': '23410567'}
+
+./cloud/001+0001+2020-02-05+18:24:44:124514+P.jpg Tiempo fue de 13.6252920627594{'descripcion': 'reconocido por knn', 'url': False, 'cliente': '001', 'distance': 0.37201699084204715, 'distance_knn': 0.4039674205412799, 'doc_id_knn': '23410567', 'doc_id': '23410567', 'distance_min_prom': 0.37201699084204715, 'doc_id_min_prom': '23410567'}
+
+./cloud/001+0001+2020-02-05+18:24:44:124514+P.jpg Tiempo fue de 13.447603464126587{'descripcion': 'reconocido por knn', 'url': False, 'cliente': '001', 'distance': 0.37201699084204715, 'distance_knn': 0.4039674205412799, 'doc_id_knn': '23410567', 'doc_id': '23410567', 'distance_min_prom': 0.37201699084204715, 'doc_id_min_prom': '23410567'}
+
+./cloud/001+0001+2020-02-05+18:24:44:124514+P.jpg Tiempo fue de 13.663908243179321{'descripcion': 'reconocido por knn', 'url': False, 'cliente': '001', 'distance': 0.37201699084204715, 'distance_knn': 0.4039674205412799, 'doc_id_knn': '23410567', 'doc_id': '23410567', 'distance_min_prom': 0.37201699084204715, 'doc_id_min_prom': '23410567'}
