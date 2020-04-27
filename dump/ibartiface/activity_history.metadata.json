@@ -1,0 +1,1 @@
+{"options":{"validator":{"$jsonSchema":{"required":["activity","status"],"properties":{"activity":{"bsonType":"string","description":""},"status":{"bsonType":"objectId","description":"id del status"}}}}},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"ibartiface.activity_history"}],"uuid":"3de99cc28bc5449d9b1fd7fbb2455953"}

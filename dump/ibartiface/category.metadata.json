@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"ibartiface.category"}],"uuid":"582a5d39d1054adf9384213cd08656ba"}
